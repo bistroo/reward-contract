@@ -11,10 +11,11 @@ We have visualised the process in the schematic and applications design below.
 ###### Process
 1. The referrer gets and shares a referrer link with a referral
 2. The referral clicks on the link and registers the reference by signing a message
-3.  The referral activates the reward by performing a required activity:
-    * A referral consumer registers and pays for an order
-    *  referral merchant activates a store
+3. The referral activates the reward by performing a required activity:
+   * A referral consumer registers and pays for an order
+   * A referral merchant activates a store
 4. The referrer receives a referrer reward
+
 
 ![Reward schematic](https://github.com/bistroo/reward-contract/blob/main/images/reward-schematic.png)
 ![Reward application design](https://github.com/bistroo/reward-contract/blob/main/images/reward-application-design.png)
